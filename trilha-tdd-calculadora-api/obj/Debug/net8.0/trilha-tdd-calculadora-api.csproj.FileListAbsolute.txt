@@ -1,0 +1,14 @@
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\bin\Debug\net8.0\trilha-tdd-calculadora-api.exe
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\bin\Debug\net8.0\trilha-tdd-calculadora-api.deps.json
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\bin\Debug\net8.0\trilha-tdd-calculadora-api.runtimeconfig.json
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\bin\Debug\net8.0\trilha-tdd-calculadora-api.dll
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\bin\Debug\net8.0\trilha-tdd-calculadora-api.pdb
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\obj\Debug\net8.0\trilha-tdd-calculadora-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\obj\Debug\net8.0\trilha-tdd-calculadora-api.AssemblyInfoInputs.cache
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\obj\Debug\net8.0\trilha-tdd-calculadora-api.AssemblyInfo.cs
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\obj\Debug\net8.0\trilha-tdd-calculadora-api.csproj.CoreCompileInputs.cache
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\obj\Debug\net8.0\trilha-tdd-calculadora-api.dll
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\obj\Debug\net8.0\refint\trilha-tdd-calculadora-api.dll
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\obj\Debug\net8.0\trilha-tdd-calculadora-api.pdb
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\obj\Debug\net8.0\trilha-tdd-calculadora-api.genruntimeconfig.cache
+C:\Users\Pão de batata\Projetos\trilha-tdd-teste-unitario\trilha-tdd-calculadora-api\obj\Debug\net8.0\ref\trilha-tdd-calculadora-api.dll
